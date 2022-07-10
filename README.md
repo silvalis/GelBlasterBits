@@ -8,6 +8,10 @@ Random Parts and Accessories for Gel Blasters
  
  
  ![image](/images/brake.png)
+ 14CCW Muzzle Brake
+ 
+ ![image](/images/RAv2SplitMagPlate.png)
+ RetroArms V2 Split Box Mag Plate
 
 ---------------
 
